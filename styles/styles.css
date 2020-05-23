@@ -1,0 +1,64 @@
+@font-face {
+    font-family: "Studio Ghibli Font";
+    src: url("ITC Avant Garde Gothic Medium.otf")
+}
+
+body {    
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+header {
+    margin-top: 0;
+    background-color: #473535;
+    width: 100%;
+    height: 70px;
+}
+
+header h1 {
+    line-height: 70px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-left: 10px;
+    font-family: "Studio Ghibli Font";
+    color: #f8f8ff;
+}
+
+h6 {
+    font-family: "Studio Ghibli Font";
+    font-size: 14px;
+    margin: 5px;
+    margin-top: 20px;
+}
+
+.filterColumn {
+    width: 400px;
+    padding-left: 10px;
+    padding-bottom: 50px;
+    width: 29%;
+    float: left;
+    background-color: #876C57;
+}
+
+.tableColumn {
+    width: 400px;
+    float: left;
+}
+
+#results {
+    width: 400px;
+    float: left;
+}
+
+td {
+    width: 75px;
+    padding: 3vw;
+    background-color: #EDE3D4;
+}
+
+colors:
+#473535
+#876C57
+#EDE3D4
+
+
